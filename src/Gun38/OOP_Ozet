@@ -1,0 +1,45 @@
+OOP: 4 ana bölümü vardır , bazen polymorphism eklenerek 5 e çıkartılır.
+
+Encapsulation : (Kapsülleme) private, get, set, doğru veri atama ve güvenlik
+
+Inheritance   : (Kalıtım)(extend) bir çok class ın ortak kısımları için
+                bir parent class yazıp, sonraki class ları bu class dan
+                türetilmesine KALITIM demiştik.(dede-baba-torun) miras
+
+polymorphism  : (çok şekillilik) : bir parent class veya ortak bir interface
+                e sahip classların, istenildiğinde kendi tipinde, istenildiğinde
+                parent tipinde olabilmesine, böylece aynı metodların
+                kullanılmasına imkan veriri (kedi,köpek,tırmaladı, kokladı örneği) (genelde mimarlar için)
+
+Interface     : birden fazla class ın, aynı şablondan metdolarını üretmesini zorunlu
+                kılan ve böylece yazılım planlamsı yöntemi.Sadece metdoların imzası
+                yazılıyor, implemente eden classlar metdolarını içini dolduruyor. (genelde mimarlar için)
+
+Abstract      : bir tane interface ve bir tane parent class olacaksa, interface+parent class
+                kullanmak yerine , her ikisini içine alan tek class tipidir.
+                interface+inheritance => abstract class -> 2 si bir arada (genelde mimarlar için)
+
+                Kaptanın seyif defteri
+                salı : OOP soru çözümü
+                Çar  : DateTime 1
+                Per  : DateTime 2
+
+                Pazt : String,nesne,referans
+                Salı : Hata yönetimi
+                JAVA CORE bitiyor
+                Çar
+                Per
+
+                Pazt
+                Salı
+                Oracle Java sınavında çıkmış
+                sorular çözerek tekrar yapacağız
+                ----
+                Sonraki 4 gün kod Kod yönetimi
+                ---> Test işlemleri başlıyor
+
+                Java Core -> Junior Java Dev
+                + Mobil ekran ları => Mobil Dev
+                + Web arayüzleri   => Java Web Dev
+                + Windows ekran lar=> Java Win Dev
+                + Testing prog     => SDET

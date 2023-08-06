@@ -1,0 +1,7 @@
+1-Ogrenci isimli ad, soyad, görevi , subesi olan bir class yazınız
+2-Calisan isimli ad, soyad, görevi, departmanı olan bir class yazınız.
+3-Yukardaki sınıflardan oluşturacağınız 2 adet nesne için de geçerli
+olacak kimlik belgesi formu oluşturan tek bir metod yazınız.
+
+ipucu : bu iki sınıfın ortak çalışacağı bir metod kullanabilmesi için
+ne olması lazım?

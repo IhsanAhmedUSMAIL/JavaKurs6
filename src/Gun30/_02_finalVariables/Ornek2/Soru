@@ -1,0 +1,4 @@
+Vatandaş tipinde bir değişkene ait (isim, adres, tcNo) field ları vardır.
+Devlet isimli içinde main olan bölümde 3 vatandaş tanımlayınız ve yazdırınız.
+-verilen TCno int tipinde ve sıradan gitmelidir.
+-verilen TCno sonradan değiştirilmemelidir.

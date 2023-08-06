@@ -1,0 +1,4 @@
+// Book class yazınız. fields: name, publishYear(yayın yılı), author(yazar)
+// 3 adet Constructor ekleyiniz.
+// Kitapların özelliklerini tek bir satırda yazdıran bir metod ekleyiniz
+// 3 adet kitabı farklı constructor la oluşturup, main de yazdırınız

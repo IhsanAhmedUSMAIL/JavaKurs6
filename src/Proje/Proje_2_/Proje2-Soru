@@ -1,0 +1,18 @@
+Techno Study Project - 2
+Market Alışverişi Projesi
+
+                                              Soru Açıklaması:
+•	Bir market alışverişi projesi geliştirmeniz isteniyor. Müşterinin alışveriş listesinde bulunan ürünleri seçmesi ve bu ürünlerin toplam fiyatını hesaplaması gerekmektedir. Proje, tek boyutlu diziler, döngüler ve if-else ifadelerini kullanarak gerçek hayata dayalı bir senaryo üzerinde odaklanmaktadır.
+Aşağıdaki adımları takip ederek proje sorusunu çözebilirsiniz:
+•	Ürünlerin isimlerini, fiyatlarını ve stok durumlarını içeren bir tablo (dizi) oluşturun. Her ürün bir satırı temsil etsin.
+(!Ürün isimlerini tutan dizi “String”,
+fiyatları tutan dizi “Double”,
+stokları tutan dizi “int” olmalı, !En az 4 tane ürün tanımlayınız.)
+•	Müşteriye alışveriş listesindeki ürünleri listeleyin ve müşteriden seçim yapmasını isteyin.
+•	Kullanıcıdan alışveriş yapmak istediği ürünleri ve miktarlarını alın. Her ürün için bir döngü kullanarak kullanıcıdan bilgi alın.
+•	Seçilen ürünlerin toplam fiyatını hesaplayın.
+•	Eğer seçilen ürünlerin stoğu yeterli ise, toplam fiyatı müşteriye gösterin ve alışverişi tamamlayın.
+•	Eğer seçilen ürünlerin stoğu yetersiz ise, müşteriye stoğun yetersiz olduğunu bildirin ve stoğu yetersiz olan ürünü ve kaç adet eksik olduğunu yazdırıp alışverişi tamamlatın.
+•	Müşteriye tekrar alışveriş yapmak isteyip istemediğini sorun. Eğer evet derse, adımlara geri dönün. Eğer hayır derse, programı sonlandırın ve sipariş özetini yazdırın.
+Not: Proje zorluk seviyesini isteğinize göre ayarlayabilirsiniz. Yukarıdaki adımları takip ederek projenizi geliştirebilir ve kullanıcıya gerçek bir alışveriş deneyimi sunabilirsiniz.
+

@@ -1,0 +1,8 @@
+// Bir Üniversitede öğrencilere ders kaydı yapılacaktır.
+    // 1- Lesson : fields : name, saat (int).
+    // 2- Student: fields : name, maxSaat ve dersleri adında derslerini listesini tutacak bir liste.
+    // 3- 3 adet ders oluşturunuz.
+    // 4- 1 adet öğrenci tanımlayınız alabileceği maxCredit(maxSaat) si 10 olsun.
+    // 5- Bu öğrencinin ders listesine açılmış dersleri ekleyiniz.
+    // 6- Universite kurallarını yazdıran 2 maddelik bir not yazdıran metod ekleyinız (öğrenciye).en basta
+    //    yazdırınız.

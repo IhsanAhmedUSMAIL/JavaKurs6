@@ -1,0 +1,18 @@
+Array
+int[]
+index var : dizi[i]
+fori(hafızadaki hali garanti çünkü indexe göre gidiyor)
+foreach(sıra garanti değil)
+
+
+ArrayList
+index var : get(i)
+fori(sıra garanti, çünkü indexe göre gidiyor)
+foreach(sıra garanti değil)
+
+SET lerde
+index yok
+fori yok
+foreach(sıra garanti değil)
+iteratör yöntemi
+ortak özellikleri tekrarlama yok.
